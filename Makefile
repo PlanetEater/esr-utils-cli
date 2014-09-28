@@ -1,5 +1,5 @@
 CXX=g++
-CXXFLAGS=-Wall -ansi
+CXXFLAGS=-Wall -ansi -Wno-unused-result
 
 all: esrpatch esrunpatch
 
